@@ -4,7 +4,7 @@
   "license": "MIT",
   "scripts": {
     "develop": "gatsby develop",
-    "build": "cd ygatsby build",
+    "build": "gatsby build",
     "serve": "gatsby serve"
   },
   "dependencies": {
