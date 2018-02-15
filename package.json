@@ -4,7 +4,7 @@
   "license": "MIT",
   "scripts": {
     "develop": "gatsby develop",
-    "build": "gatsby build",
+    "build": "cd ygatsby build",
     "serve": "gatsby serve"
   },
   "dependencies": {
@@ -15,6 +15,6 @@
     "gatsby-transformer-remark": "^1.7.28"
   },
   "resolutions": {
-    "gatsby-plugin-netlify-cms/netlify-cms": "1.2.0"
+    "gatsby-plugin-netlify-cms/netlify-cms": "tech4him1/netlify-cms#gatsby-fix-bin"
   }
 }
